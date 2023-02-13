@@ -1,4 +1,4 @@
-Data science virtual internship programme by British Airways through Forage!
+**Data science virtual internship programme by British Airways through Forage!**
 
 Task 1:
 Web scraping to gain company insights
